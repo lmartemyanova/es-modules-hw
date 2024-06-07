@@ -1,0 +1,26 @@
+{
+  "name": "es-modules-hw",
+  "version": "1.0.0",
+  "main": "./src/app.js",
+  "scripts": {
+    "serve": "live-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmartemyanova/es-modules-hw.git"
+  },
+  "keywords": [
+    "es-modules-task-3"
+  ],
+  "author": "lmartemyanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmartemyanova/es-modules-hw/issues"
+  },
+  "homepage": "https://github.com/lmartemyanova/es-modules-hw#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
